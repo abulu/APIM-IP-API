@@ -1,0 +1,15 @@
+C:\Users\bulu\source\repos\APIM.API\APIM.API\bin\Release\netcoreapp2.1\APIM.API.deps.json
+C:\Users\bulu\source\repos\APIM.API\APIM.API\bin\Release\netcoreapp2.1\APIM.API.runtimeconfig.json
+C:\Users\bulu\source\repos\APIM.API\APIM.API\bin\Release\netcoreapp2.1\APIM.API.runtimeconfig.dev.json
+C:\Users\bulu\source\repos\APIM.API\APIM.API\bin\Release\netcoreapp2.1\APIM.API.dll
+C:\Users\bulu\source\repos\APIM.API\APIM.API\bin\Release\netcoreapp2.1\APIM.API.pdb
+C:\Users\bulu\source\repos\APIM.API\APIM.API\obj\Release\netcoreapp2.1\APIM.API.csprojAssemblyReference.cache
+C:\Users\bulu\source\repos\APIM.API\APIM.API\obj\Release\netcoreapp2.1\APIM.API.csproj.CoreCompileInputs.cache
+C:\Users\bulu\source\repos\APIM.API\APIM.API\obj\Release\netcoreapp2.1\APIM.API.RazorAssemblyInfo.cache
+C:\Users\bulu\source\repos\APIM.API\APIM.API\obj\Release\netcoreapp2.1\APIM.API.RazorAssemblyInfo.cs
+C:\Users\bulu\source\repos\APIM.API\APIM.API\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\bulu\source\repos\APIM.API\APIM.API\obj\Release\netcoreapp2.1\APIM.API.AssemblyInfoInputs.cache
+C:\Users\bulu\source\repos\APIM.API\APIM.API\obj\Release\netcoreapp2.1\APIM.API.AssemblyInfo.cs
+C:\Users\bulu\source\repos\APIM.API\APIM.API\obj\Release\netcoreapp2.1\APIM.API.RazorTargetAssemblyInfo.cache
+C:\Users\bulu\source\repos\APIM.API\APIM.API\obj\Release\netcoreapp2.1\APIM.API.dll
+C:\Users\bulu\source\repos\APIM.API\APIM.API\obj\Release\netcoreapp2.1\APIM.API.pdb
